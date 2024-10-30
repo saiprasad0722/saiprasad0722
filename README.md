@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saiprasad0722
-- 👀 I’m interested in ...full stack developer
-- 🌱 I’m currently learning ... full stack developer
+- 👋 Hi, I’m @saiprasad
+- 👀 I’m interested in ... Data Scientist
+- 🌱 I’m currently learning ... Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...k.saiprasad122@gmail.com
+- 📫 How to reach me ... saiprasad17529@gmail.com
 
 <!---
 saiprasad0722/saiprasad0722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
